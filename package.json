@@ -1,6 +1,6 @@
 {
   "name": "earth-pc-scripts",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "react-scripts alike. Specific for react-pc-project framework in 58finance",
   "bin": {
     "earth-pc-scripts": "./bin/earth-pc-scripts.js"
