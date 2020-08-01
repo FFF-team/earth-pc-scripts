@@ -1,0 +1,49 @@
+{
+  "name": "earth-pc-scripts",
+  "version": "2.1.0",
+  "description": "react-scripts alike. Specific for react-pc-project framework in 58finance",
+  "bin": {
+    "earth-pc-scripts": "./bin/earth-pc-scripts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FFF-team/earth-pc-scripts.git"
+  },
+  "author": {
+    "name": "jiajianrong",
+    "email": "16446358@qq.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "7.10.5",
+    "@babel/preset-env": "7.10.4",
+    "@babel/preset-react": "7.10.4",
+    "@babel/preset-typescript": "7.10.4",
+    "babel-plugin-class-properties": "1.0.0",
+    "babel-plugin-transform-object-rest-spread": "6.26.0",
+    "@babel/runtime": "7.10.5",
+    "babel-loader": "8.1.0",
+    "chalk": "4.1.0",
+    "core-js": "3.6.5",
+    "css-loader": "4.0.0",
+    "dotenv": "8.2.0",
+    "fibers": "4.0.3",
+    "file-loader": "6.0.0",
+    "fs-extra": "9.0.1",
+    "html-webpack-plugin": "4.3.0",
+    "http-proxy-middleware": "1.0.5",
+    "lodash": "4.17.19",
+    "mini-css-extract-plugin": "0.9.0",
+    "node-sass": "4.14.1",
+    "object-assign": "4.1.1",
+    "postcss-flexbugs-fixes": "4.2.1",
+    "postcss-loader": "3.0.0",
+    "react-dev-utils": "10.2.1",
+    "sass": "1.26.10",
+    "sass-loader": "9.0.2",
+    "style-loader": "1.2.1",
+    "url-loader": "4.1.0",
+    "webpack": "4.44.0",
+    "webpack-dev-server": "3.11.0"
+  }
+}
